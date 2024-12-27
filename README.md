@@ -1,4 +1,4 @@
-# FusionPDFApp
+# ZeFusionPdf
 
 FusionPDFApp est un outil convivial, écrit en Python avec Tkinter, qui permet aux utilisateurs de fusionner plusieurs fichiers PDF en un seul document de manière intuitive. Il inclut des fonctionnalités avancées telles que la gestion de l'ordre des fichiers PDF par glisser-déposer et une interface utilisateur simple à prendre en main.
 
